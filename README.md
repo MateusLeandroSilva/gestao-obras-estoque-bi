@@ -1,3 +1,5 @@
+Sistema desenvolvido com emus colegas da faculdade
+
 # 🏗️ Sistema Integrado de Gestão de Obras, Estoque e Compras  
 ### 📊 Com Suporte Analítico em Power BI  
 ### 📘 Projeto Integrado – UNIFEOB (Novembro)
