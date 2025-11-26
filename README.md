@@ -1,4 +1,4 @@
-Sistema desenvolvido com emus colegas da faculdade
+(Sistema Desenvolvido em Colaboração com Colegas da Faculdade)
 
 # 🏗️ Sistema Integrado de Gestão de Obras, Estoque e Compras  
 ### 📊 Com Suporte Analítico em Power BI  
